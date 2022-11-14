@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+ .card_coach{
+background-color: rgba(220, 220, 91, 0.258);
+width: 1300px;
+padding: 35px;
+margin: 35px;
+border: none;
+border-left: solid rgb(181, 177, 177);
+border-left-width: 6px;
+ }
+
+ .card{
+  background-color: white;
+  width: 1300px;
+  padding: 35px;
+  margin: 35px;
+  border: none;
+  border-left: solid rgb(187, 185, 185);
+  border-left-width: 6px;
+   }
